@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  hospital: 
+  pacient: 
+  type: 
+  description: MyText
+
+two:
+  hospital: 
+  pacient: 
+  type: 
+  description: MyText
